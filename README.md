@@ -84,3 +84,11 @@ The application is a three-stage pipeline. The scripts must be run in the follow
     ```bash
     streamlit run dashboard.py
     ```
+    ---
+## Operational & Systems Management
+
+Beyond the data science, this project involved significant IT and operational considerations:
+
+* **System Requirements:** The fine-tuning script requires a machine with a dedicated NVIDIA GPU and CUDA toolkit, demonstrating experience with specialized hardware setup.
+* **Pipeline Management:** The end-to-end workflow (Scraping -> Analysis -> Dashboard) showcases the ability to manage a multi-stage IT project and troubleshoot dependencies between components.
+* **User Training & Documentation:** The dashboard is designed to be used by non-technical stakeholders, and this README serves as the primary documentation for setup and usage, reflecting skills in user support.
