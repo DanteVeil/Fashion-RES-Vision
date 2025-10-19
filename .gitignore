@@ -25,4 +25,4 @@ chromedriver.log
 Thumbs.db
 
 # Trained model output (can be regenerated)
-fashion_model_final/
+fashion_model_checkpoints/
