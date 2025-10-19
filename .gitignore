@@ -23,3 +23,6 @@ chromedriver.log
 # Operating System files
 .DS_Store
 Thumbs.db
+
+# Trained model output (can be regenerated)
+fashion_model_final/
