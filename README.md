@@ -14,7 +14,7 @@ TrendVision is a full-stack data science application designed to provide real-ti
 
 Below is a visualisation of the interactive dashboard, which allows for dynamic filtering and visualization of the collected trend data.
 
-\includegraphics{PresentationImages/Presentation.PNG}
+![Main Page](https://github.com/DanteVeil/Fashion-RES-Vision/blob/main/PresentationImages/Presentation.PNG)
 
 
 ### Key Features:
