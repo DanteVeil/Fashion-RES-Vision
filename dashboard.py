@@ -113,6 +113,6 @@ else:
             with cols[i % num_columns]:
                 image_path = os.path.join('images', image_file)
                 if os.path.exists(image_path):
-                    st.image(image_path, caption=image_file, use_column_width=True)
+                    st.image(image_path, caption=image_file, width=150)
     else:
         st.write("No images to display for this selection.")
