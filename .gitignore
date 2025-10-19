@@ -26,3 +26,4 @@ Thumbs.db
 
 # Trained model output (can be regenerated)
 fashion_model_checkpoints/
+fashion_model_final/
