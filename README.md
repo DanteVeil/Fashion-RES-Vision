@@ -12,9 +12,9 @@ TrendVision is a full-stack data science application designed to provide real-ti
 
 ## Live Demo & Features
 
-Below is a snapshot of the interactive dashboard, which allows for dynamic filtering and visualization of the collected trend data.
+Below is a visualisation of the interactive dashboard, which allows for dynamic filtering and visualization of the collected trend data.
 
-*_(**Pro Tip:** Record a short GIF of you using the dashboard and embed it here. It's much more impressive than a static image! You can use a tool like GIPHY Capture or ScreenToGif.)_*
+\includegraphics{PresentationImages/Presentation.PNG}
 
 
 ### Key Features:
